@@ -1,6 +1,6 @@
 body {
 	background-color: red;
 	color: yellow;
-	font: helvetica;
-	border-left: 10px;	
+	font-family: helvetica;
+	margin-left: 20px;
 }
