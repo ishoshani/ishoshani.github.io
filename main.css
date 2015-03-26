@@ -4,8 +4,10 @@ body {
 	font-family: helvetica;
 	margin-left: 20px;
 }
-postTitle {
+postText {
+	font-size: :24px;
 	margin-left:40px;
+
 
 
 }
