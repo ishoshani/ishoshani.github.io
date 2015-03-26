@@ -15,10 +15,10 @@ Title: home
 	<div>
 		<ul>	
 			{% for post in site.posts %}
-				<a id="postTitle">
+				<div id="postTitle">
 
-					{post.title} 
-				</a>
+					{{ post.title }} 
+				</div>
 			{% endfor %}
 		</ul>
 	</div>
